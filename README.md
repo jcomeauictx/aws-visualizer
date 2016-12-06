@@ -42,7 +42,7 @@ INSTALL
 
 Authenticating
 --------------
-AWS Visualizer uses the `boto3` library to make it's calls to the AWS API.  As
+AWS Visualizer uses the `boto3` library to make its calls to the AWS API.  As
 such it supports all of the tratitional boto mechanisms for [specifying
 credentials](http://boto3.readthedocs.io/en/latest/guide/configuration.html#guide-configuration)
 
